@@ -12,27 +12,27 @@
 <br></br>
 ##
  
-  ### 3. Then go to https://github.com/iamrahulroy11/C-programming and click on *"star"*🌟 and *"fork"*🍴.
+  ### 2. Then go to https://github.com/iamrahulroy11/C-programming and click on *"star"*🌟 and *"fork"*🍴.
   
 <br></br>
 ##
-  ### 4. Now click on the "*Programs*" folder  and click on "*add file* and click on "*create new file*"📁.
+  ### 3. Now click on the "*Programs*" folder  and click on "*add file* and click on "*create new file*"📁.
   
 <br></br>
 ##
-  ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- sample.c
+  ### 4. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- sample.c
   <br></br>
 ##
-  ### 6. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
+  ### 5. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
   <br></br>
 
 ##
-  ### 7. On the next window, click on the "*Pull Request*"✔️ button.
+  ### 6. On the next window, click on the "*Pull Request*"✔️ button.
   
   <br></br>
- 
 
-  ### 8. Click on the *"Create Pull Request Button"*✔️.
+##
+  ### 7. Click on the *"Create Pull Request Button"*✔️.
   
   ### And again on the same button on the next window.
   
